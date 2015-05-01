@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APS1117-3.3
+D APS1117-3.3, 1A Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23
+K 1A LDO Regulator Fixed Positive
+F http://www.advanced-monolithic.com/pdf/ds1117.pdf
+$ENDCMP
+#
+#End Doc Library
